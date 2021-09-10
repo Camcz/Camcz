@@ -2,7 +2,7 @@
 - 👀 I’m interested in networking
 - 🌱 I’m currently learning app development using kivy
 - 💞️ I’m looking to collaborate in python development projects
-- 📫 How to reach me ...
+- 📫 How to reach me: mfanukhonagama@gmail.com
 
 <!---
 Camcz/Camcz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
